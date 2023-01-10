@@ -1,0 +1,8 @@
+{
+  "name": "mybar",
+  "version": "1.0.0",
+  "description": "Simple React application to give drink options ",
+  "main": "index.js",
+  "author": "adam.giese@gmail.com",
+  "license": "MIT"
+}
